@@ -1,0 +1,17 @@
+# Ignorar la carpeta del entorno virtual
+.venv/
+
+# Ignorar dependencias y archivos temporales
+node_modules/
+__pycache__/
+*.pyc
+
+# Ignorar archivos de configuración del sistema operativo
+.DS_Store
+
+# Ignorar archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Ignorar otros archivos temporales
+*.log
